@@ -1,3 +1,5 @@
+![alt text]("/Users/nicolainyboe/reactthreejs/Screenshot 2022-01-15 at 18.31.05.png")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
